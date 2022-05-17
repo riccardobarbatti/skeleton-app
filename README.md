@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# React Skeleton Component 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Skeleton Component preload CSS classic animations and MUI Material animations
+
+## Demo
+<p align="center">
+  <img src="skeleton_component.gif" width="960" alt="TypePong" />
+</p>
 
 ## Available Scripts
 
